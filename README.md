@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Wendell Carvalho Silva
 
-<!--
-**WendellCarvS/WendellCarvS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Estagiário em Infraestrutura de TI  
+👨‍💻 Atualmente aprendendo Python, Oracle SQL e fundamentos de redes  
+🚀 Em busca da primeira oportunidade como Desenvolvedor
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias em estudo
+- Python 🐍
+- Oracle SQL 🧠
+- Power BI 📊
+- Git & GitHub 🔧
+- Docker 🐳
+- Lógica de programação, estruturas de dados e pensamento computacional 🧩
+
+
+## 📈 Projetos em destaque
+🚧🚧- EM CONSTRUÇÃO -🚧🚧
+
+
+## 📫 Como me encontrar
+- 📧 Email: [wendell.carvalho343@gmail.com](mailto:wendell.carvalho343@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/wendell-carvalho-0818b3189](https://www.linkedin.com/in/wendell-carvalho-0818b3189)
+
+
+> 💡 *Busco entender meus deveres e executa-los com exccelencia*
+)
+
