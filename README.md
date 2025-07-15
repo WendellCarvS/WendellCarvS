@@ -24,5 +24,5 @@
 
 
 > 💡 *Busco entender meus deveres e executa-los com exccelencia*
-)
+
 
