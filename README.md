@@ -22,6 +22,14 @@
 - 📧 Email: [wendell.carvalho343@gmail.com](mailto:wendell.carvalho343@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/wendell-carvalho-0818b3189](https://www.linkedin.com/in/wendell-carvalho-0818b3189)
 
+## Conhecimento
+- LINUX - basico
+- REDES - intermediario
+- PYTHON - Intermediario
+- WINDOWS - Avançado
+- POWER BI - Basico
+- SQL - basico
+  
 
 > 💡 *Busco entender meus deveres e executa-los com exccelencia*
 
