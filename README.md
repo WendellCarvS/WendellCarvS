@@ -25,14 +25,14 @@
 - 💼 LinkedIn: [linkedin.com/in/wendell-carvalho-0818b3189](https://www.linkedin.com/in/wendell-carvalho-0818b3189)
 
 ## Conhecimento
-- LINUX - basico
-- REDES - intermediario
-- PYTHON - Intermediario
+- LINUX - Básico
+- REDES - intermediário
+- PYTHON - Intermediário
 - WINDOWS - Avançado
-- POWER BI - Basico
-- SQL - basico
+- POWER BI - Básico
+- SQL - Básico
   
 
-> 💡 *Busco entender meus deveres e executa-los com exccelencia*
+> 💡 *Busco entender meus deveres e executá-los com excelência*
 
 
