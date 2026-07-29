@@ -1,6 +1,5 @@
 # 👋 Olá, eu sou o Wendell Carvalho Silva!
 
-```json
 📌 Sobre Mim
 Sou Desenvolvedor Full Stack atuando no desenvolvimento e na manutenção de sistemas financeiros complexos para centralização de valores e gestão de cessões.
 
