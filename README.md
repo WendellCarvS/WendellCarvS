@@ -14,13 +14,13 @@ Sou **Desenvolvedor Full Stack** atuando no desenvolvimento e na manutenção de
 ### 🛠️ Stack Tecnológica
 
 <p align="left">
-  <img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)" alt="C#" />
-  <img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)" alt=".NET" />
-  <img src="[https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)" alt="Angular" />
-  <img src="[https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)" alt="TypeScript" />
-  <img src="[https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)" alt="SQL Server" />
-  <img src="[https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)" alt="Git" />
-  <img src="[https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)" alt="Linux" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ---
@@ -45,6 +45,10 @@ Sou **Desenvolvedor Full Stack** atuando no desenvolvimento e na manutenção de
 ### 📬 Como me Encontrar
 
 <p align="left">
-  <a href="mailto:wendell.carvalho343@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail" /></a>
-  <a href="[https://linkedin.com/in/wendell-carvalho-0818b3189](https://linkedin.com/in/wendell-carvalho-0818b3189)" target="_blank"><img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn" /></a>
+  <a href="mailto:wendell.carvalho343@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/wendell-carvalho-0818b3189" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
